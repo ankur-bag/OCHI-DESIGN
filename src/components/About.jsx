@@ -2,8 +2,8 @@ import React from 'react';
 
 const About = () => {
     return (
-        <div>
-            <div className='w-full pt-24 pb-10 px-20 bg-[#CDEA68] rounded-tl-3xl rounded-tr-3xl text-zinc-800'>
+        <div data-scroll data-scroll-section data-scroll-speed= "-.1">
+            <div   className='w-full pt-24 pb-10 px-20 bg-[#CDEA68] rounded-tl-3xl rounded-tr-3xl text-zinc-800'>
                 <h1 className='font-["Audiowide"] text-5xl'>
                     We craft category-defining presentations, brand identities, and digital experiences that drive funding, sales, and market leadership.
                 </h1>
