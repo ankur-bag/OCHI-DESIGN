@@ -31,7 +31,7 @@ const LandingPage = () => {
                     </div>
 
 
-                    <div className='border-t-[1px] border-zinc-800 mt-23 flex justify-between items-center mb-40' >
+                    <div className='border-t-[1px] border-zinc-800 mt-23 flex justify-between items-center mb-60' >
                         <div className=' flex justify-between items-center gap-75 px-10'>
                             <p>Presentation and storytelling agency</p>
                             <p>For innovation teams and global brands</p>
