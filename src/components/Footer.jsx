@@ -37,7 +37,7 @@ const Footer = () => {
                     </div>
                     <h1 className='mt-7 mb-3'>E:</h1>
                     <div className='dets2 flex flex-col'>
-                    <a className= 'block text-lg font-light 'href="#">hello@ochi.design</a>
+                    <a className= 'block text-lg font-light 'href="#">ankurbag@ochi.design</a>
                     </div>
 
                 </div>
